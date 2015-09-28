@@ -12,6 +12,7 @@
             <artifactId>maven-war-plugin</artifactId>
             <configuration>
                 <failOnMissingWebXml>false</failOnMissingWebXml>
+                 <webXml>src\main\webapp\WEB-INF\web.xml</webXml>  
             </configuration>
             <executions>
                 <execution>
