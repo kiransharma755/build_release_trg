@@ -1,0 +1,1 @@
+put the setting.xml in $jenkins_home/.m2 directory
